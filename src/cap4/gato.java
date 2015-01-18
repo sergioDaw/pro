@@ -4,9 +4,6 @@ public class gato extends felinos implements puedeNadar, puedeCaminar{
 	
 public gato ( String especie, String color, int patas, boolean salvaje) {
 	
-	this.color = color;
-	this.especie = especie;
-	
 	this.patas = patas;
 	this.salvaje = salvaje;
 }

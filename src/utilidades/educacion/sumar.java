@@ -10,7 +10,7 @@ este paquete.
 
 public class sumar {
 	
-	int suma(int a, int b){
+	public int suma(int a, int b){
 		
 		int suma; 
 		
